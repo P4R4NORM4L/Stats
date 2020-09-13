@@ -29,10 +29,10 @@ See the how to section for setup.
 - php 5.6>
 
 # Oxide plugin:
-PlayerRanks (https://codefling.com/files/file/14-playerranks/)
+[PlayerRanks](https://codefling.com/files/file/14-playerranks/)
 See how to install on https://codefling.com/files/file/14-playerranks/?tab=details
 
-SQL Stats (https://www.chaoscode.io/resources/sqlstats.114/)
+[SQL Stats](https://www.chaoscode.io/resources/sqlstats.114/)
 See how to install on https://www.chaoscode.io/resources/sqlstats.114/
 # How to:
 Im gonna assume you own a dedi box, and we are gonna install all on the same machine where rust server are running.
