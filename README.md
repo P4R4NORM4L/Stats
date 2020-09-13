@@ -30,8 +30,10 @@ See the how to section for setup.
 
 # Oxide plugin:
 PlayerRanks (https://codefling.com/files/file/14-playerranks/)
-Ses how to install on https://codefling.com/files/file/14-playerranks/?tab=details
+See how to install on https://codefling.com/files/file/14-playerranks/?tab=details
 
+SQL Stats (https://www.chaoscode.io/resources/sqlstats.114/)
+See how to install on https://www.chaoscode.io/resources/sqlstats.114/
 # How to:
 Im gonna assume you own a dedi box, and we are gonna install all on the same machine where rust server are running.
 We are gonna create a subdomain to this so you can add it to your website, like stats.yourdomain.com, this will be pointed to your dedi server.
